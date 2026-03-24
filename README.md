@@ -3,15 +3,11 @@
 Predicting video game sales using **Python** and **Machine Learning**.  
 This project analyzes video game sales data, performs EDA, and implements multiple predictive models to forecast sales performance.
 
-
-## Project Structure
-video-game-sales-prediction/
-├── data/ # Dataset files
-│ └── vgsales.csv
-├── src/ # Python scripts
-│ └── VIDEO_GAME_SALES_CODE.ipynb
-└── README.md # Project description
-
+## Project Overview
+- Performed data cleaning and preprocessing on video game sales data  
+- Conducted exploratory data analysis (EDA) to understand patterns and trends  
+- Implemented machine learning models to predict sales  
+- Evaluated model performance using appropriate metrics
 
 ## Dataset
 - The dataset used: `vgsales.csv` (inside `data/`)  
